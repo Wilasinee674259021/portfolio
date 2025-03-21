@@ -63,7 +63,7 @@ section {
 h2 {
   margin-bottom: 15px;
   font-size: 24px;
-  color: #000000;
+  color: #d61515;
 }
 
 /* Project Grid */
@@ -75,7 +75,7 @@ h2 {
 }
 
 .project {
-  background: #6eabf1;
+  background: #f16e6e;
   padding: 20px;
   border-radius: 8px;
   width: 300px;
@@ -84,7 +84,7 @@ h2 {
 
 /* Contact Section */
 #contact a {
-  color: #40287d;
+  color: #287d40;
   font-weight: bold;
 }
 
